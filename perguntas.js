@@ -1,34 +1,34 @@
 Perguntas.js
 criaCartao(
-    'Português',
+    'Astronomia',
     'O que é susbstantivo?',
     'Palavra que nomeia seres, coisas, lugares, etc.'
 )
 
 criaCartao(
-    'Geografia',
+    'Astronomia',
     'Quais são os continentes do mundo?',
     'América, Europa, Ásia, África, Oceania e Antártica'
 )
 
 criaCartao(
-    'História',
+    'Astronomia',
     'Quem descobriu o Brasil?',
     'Pedro Álvares Cabral'
 )
     criaCartao(
-    'Ciências',
+    'Astromia',
     'Quais são os estados físicos da água?',
     'Sólido, líquido e gasoso'
 ) 
 criaCartao(
-    'Matemática',
+    'Astronomia',
     'Qual a fórmula da área do quadrado?',
     'Lado x Lado'
 )
 
 criaCartao(
-    'Geografia',
+    'Astronomia',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
