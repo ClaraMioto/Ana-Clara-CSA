@@ -1,45 +1,45 @@
 Perguntas.js
 criaCartao(
     'Astronomia',
-    'O que é susbstantivo?',
-    'Palavra que nomeia seres, coisas, lugares, etc.'
+    'O que é astronomia?',
+    'É a ciência que estuda os astros, como planetas, estrelas, satélites, cometas e galáxias.'
 )
 
 criaCartao(
     'Astronomia',
-    'Quais são os continentes do mundo?',
-    'América, Europa, Ásia, África, Oceania e Antártica'
+    'Qual é a estrela mais próxima da Terra?',
+    'O Sol.'
 )
 
 criaCartao(
     'Astronomia',
-    'Quem descobriu o Brasil?',
-    'Pedro Álvares Cabral'
+    'O que é uma galáxia?',
+    'É um enorme conjunto de estrelas, planetas, poeira e gases.'
 )
     criaCartao(
     'Astromia',
-    'Quais são os estados físicos da água?',
-    'Sólido, líquido e gasoso'
+    'Qual é o planeta mais próximo do Sol?',
+    'Mercúrio.'
 ) 
 criaCartao(
     'Astronomia',
-    'Qual a fórmula da área do quadrado?',
-    'Lado x Lado'
+    'Qual é o maior planeta do Sistema Solar?',
+    'Júpiter.'
 )
 
 criaCartao(
     'Astronomia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'O que são satélites naturais?',
+    'São corpos que giram em torno de planetas, como a Lua em torno da Terra.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Astronomia',
+    'O que é um eclipse solar?',
+    'É quando a Lua fica entre a Terra e o Sol, bloqueando a luz solar.'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Astronomia',
+    'Qual é o nome da nossa galáxia?',
+    'Via Láctea.'
 ) 
